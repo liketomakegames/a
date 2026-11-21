@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Pitch 96",
+  "description": "7-a-side 3D arcade soccer with Magnus curve shots, a 1-in-3 luck curve strike system, World Cup 32 knockout, and penalty shootouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
